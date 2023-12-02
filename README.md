@@ -1,1 +1,1 @@
-# Vision-based-People-Tracking-for-Ubiquitous-Augmented-Reality-Applications
+# Vision_based-People-Tracking-for-Ubiquitous-Augmented-Reality-Applications
